@@ -1,5 +1,5 @@
 # Waiter.app
 
-Projekt podsumowujący moduł React.
+Projekt .
 
-https://642cfac8-4e0c-4cd9-9bcb-be4572a4c441-00-1hewg9s4b6ow4.janeway.replit.dev/
+https://2f8b23b9-3504-4a0c-b0dc-28a411eaddb0-00-f8x3ihdb7e8g.picard.replit.dev/
